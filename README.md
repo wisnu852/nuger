@@ -1,0 +1,2 @@
+# nuger
+Only bug reports
